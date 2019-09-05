@@ -1,0 +1,6 @@
+E:\Rough Work\EXE Creation\EXE Creation\bin\Release\EXE Creation.exe.config
+E:\Rough Work\EXE Creation\EXE Creation\bin\Release\EXE Creation.exe
+E:\Rough Work\EXE Creation\EXE Creation\bin\Release\EXE Creation.pdb
+E:\Rough Work\EXE Creation\EXE Creation\obj\Release\EXE Creation.csproj.CoreCompileInputs.cache
+E:\Rough Work\EXE Creation\EXE Creation\obj\Release\EXE Creation.exe
+E:\Rough Work\EXE Creation\EXE Creation\obj\Release\EXE Creation.pdb
